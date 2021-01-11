@@ -1,0 +1,18 @@
+Do zrobienia w projekciku mym maultki:
+    [] projekt gui
+    [] wybór liczby danych
+
+Dane:
+    [] Zbiór danych
+    [] Generowanie liczby danych
+    [] Wybór liczby danych w menu
+
+Algorytmy:
+    [] opisy ( złożoności itp.)
+    [] Funkcje sortujące
+    [] wizualizacja
+
+Dodatkowe:
+    [] opisy co to są złożoności czasowe itp.
+    [] dodanie menubara z autorem i pomocą
+    
