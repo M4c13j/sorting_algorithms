@@ -11,7 +11,7 @@ App to visualize how sorting algorithms work with gui and various customization 
 
 > I used Python and tkinter(for gui)
 
-#Installation 
+# Installation 
 ```bash
 #Copy the files into the folder, then start by typing in console
 py main.py
